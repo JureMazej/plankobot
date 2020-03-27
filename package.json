@@ -4,11 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start" : "node index.js"
   },
   "author": "jure",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.0.2"
+  },
+  "repository": {
+  	"type" : "git",
+  	"url": "git+https://github.com/JureMazej/plankobot.git"
   }
 }
